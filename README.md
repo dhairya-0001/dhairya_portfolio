@@ -1,6 +1,4 @@
-Here is a **professional, production-level README.md** tailored specifically for your portfolio website and aligned with AI Engineer positioning. You can copy-paste this directly into your GitHub repository.
 
----
 
 # 🚀 Dhairya Gupta — AI Engineer Portfolio
 
